@@ -1,3 +1,8 @@
+layout: post
+title: "Building a Real Local AI Assistant: A Case Study in What Actually Matters"
+date: 2026-06-07 11:22:00 -0000
+categories: AI technology homelab
+
 # Building a Real Local AI Assistant: A Case Study in What Actually Matters
 
 ## Introduction: Why Most Local AI Articles Miss the Point
